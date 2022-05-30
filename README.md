@@ -1,2 +1,2 @@
-# ghozihaq2017.github.io
+# ghozihaq
 Belajar Github Pages
