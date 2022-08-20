@@ -1,2 +1,0 @@
-# ghozihaq
-Belajar Github Pages
